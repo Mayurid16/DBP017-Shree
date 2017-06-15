@@ -35,6 +35,5 @@ public class Home extends Activity{
         //Log.d("GET",detail);
 
         //Toast.makeText(Home.this, Arrays.toString(detail), Toast.LENGTH_LONG).show();
-
     }
 }
